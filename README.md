@@ -1,6 +1,15 @@
-Js Hello World Demo
-===================
+CNZZ Demo
+=========
 
-Open `index.html` in your browser.
+```
+npx http-server . -c-1 -o
+```
 
-You will see "Hello, JS!" on the page.
+![demo](./images/demo.jpg)
+
+settings
+--------
+
+https://web.umeng.com/main.php?c=site&a=getcode&siteid=1274292847
+
+![settings](./images/settings.jpg)
